@@ -4,6 +4,50 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/30066755-97fd-4472-86b2-4566bffbba79">
 
+### Winners:
+
+The winner for $75 is @Nakatox! The idea of presenting the time in binary where each digit is an hourglass for its completion is mind bending 🤯! https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/4
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/18473099-3c5a-4f77-8ed5-f58a192ff7df
+
+
+In second place with $50 is @morenicogs! What if you encoded the time in binary and use it to start a game of life sequence, well that turns out really pretty! https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/7
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/eb23f5e0-110c-43b1-b23a-f7810d38e4e8
+
+
+In third place for $25 is @PuttTim! If you are stranded in a middle of the ocean and want to get the time, this Morse Code clock is what you need! .---- ....- : .---- -.... : ..--- ---.. https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/6
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/5ea80b53-c664-4037-bf30-214884e3adc3
+
+
+Honorable mention for @nikpundik! This past/future clock concept for the minutes and the hours is very interesting. https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/3
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/b75aaf7f-33b2-4f55-987b-25cb6877d5b3
+
+
+Honorable mention for @Uzo2005! Marying a physial fan and a clock is such a clever concept, I'd love to see a real world one being built! https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/5
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/dd94faa3-8773-4861-97d3-28a76470ae2d
+
+
+Honorable mention for @philip-edekobi! Really cool idea to roll dices to form the time you can read, there's even a nice animation! https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/2
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/330abb2d-e58b-42a3-b350-8c7141dfb62f
+
+
+Honorable mention for myself... When I told my wife about the challenge she mentioned that we should have a hunger clock until next meal... so I built one 🤤! https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/1
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/90bfcfe2-8625-4561-a195-e6f8de01b46f
+
+
 ### Prizes:
 * Winner: $75
 * 2nd: $50
