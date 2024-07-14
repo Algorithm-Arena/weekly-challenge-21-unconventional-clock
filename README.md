@@ -12,7 +12,7 @@
 https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/18473099-3c5a-4f77-8ed5-f58a192ff7df
 
 
-* In second place with $50 is @morenicogs! What if you encoded the time in binary and use it to start a game of life sequence, well that turns out really pretty! https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/7
+* In second place with $50 is @nicogs! What if you encoded the time in binary and use it to start a game of life sequence, well that turns out really pretty! https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/issues/7
 
 
 https://github.com/Algorithm-Arena/weekly-challenge-21-unconventional-clock/assets/197597/eb23f5e0-110c-43b1-b23a-f7810d38e4e8
